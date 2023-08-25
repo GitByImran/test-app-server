@@ -1,0 +1,326 @@
+[
+  {
+    "_id": "64b2adbea389c82ce6d50f5b",
+    "productName": "T500 Smart Watch Compatible with Android & iOS Bluetooth Calling Smart Watch",
+    "productImage": "https://static-01.daraz.com.bd/p/5dc25d6f1bb71fc866fb6052e6f70078.jpg",
+    "price": 99.99,
+    "tax": 5,
+    "category": "watches",
+    "availablity": "inStock"
+  },
+  {
+    "_id": "64b2adbea389c82ce6d50f5e",
+    "productName": "Fd68S Smart Watch Men Women Bracelet Wireless Sleep Monitoring Smartwatch - Smart Watch",
+    "productImage": "https://static-01.daraz.com.bd/p/e569956e85a3e7cf4267a1b34b0dcfcf.jpg",
+    "price": 89.99,
+    "tax": "4.5",
+    "category": "watches",
+    "availablity": "inStock"
+  },
+  {
+    "_id": "64b2adbea389c82ce6d50f5f",
+    "productName": "COLMI P28 Plus Calling Smart Watch",
+    "productImage": "https://static-01.daraz.com.bd/p/5688b5ca86b03ebb8b0837a4ce8e1341.jpg",
+    "price": "79.99",
+    "tax": 3.5,
+    "category": "watches",
+    "availablity": "inStock"
+  },
+  {
+    "_id": "64b2adbea389c82ce6d50f61",
+    "productName": "HD 1080P Video Camcorder Handheld Digital Camera 16X Zoom Digital Camera",
+    "productImage": "https://static-01.daraz.com.bd/p/66163461345250cc30f7c3512f6f35a7.jpg",
+    "price": 299.99,
+    "tax": "10",
+    "category": "cameras",
+    "availablity": "inStock"
+  },
+  {
+    "_id": "64b2adbea389c82ce6d50f62",
+    "productName": "Canon PowerShot SX500 IS 16.0 MP Digital Camera with 30x Wide-Angle Optical Image Stabilized Zoom and 3.0-Inch LCD (Black)",
+    "productImage": "https://static-01.daraz.com.bd/p/eee76001eb15828eb637c0b322fab8e7.jpg",
+    "price": 499.99,
+    "tax": 25,
+    "category": "cameras",
+    "availablity": "inStock"
+  },
+  {
+    "_id": "64b2adbea389c82ce6d50f63",
+    "productName": "Sony Cyber shot DSC-H400 20.1 Mega Pixel 63Xoptical Zoom",
+    "productImage": "https://static-01.daraz.com.bd/p/72d27883c1af06093328cc91af009b2e.jpg",
+    "price": 449.99,
+    "tax": 22.5,
+    "category": "cameras",
+    "availablity": "inStock"
+  },
+  {
+    "_id": "64b2adbea389c82ce6d50f64",
+    "productName": "Yfashion Digital Full HD 16x Digital Camera Professional Video Camcorder Vlogging Camera",
+    "productImage": "https://static-01.daraz.com.bd/p/70de89e7dfae0fdc030ed5c5006f93d2.jpg",
+    "price": 599.99,
+    "tax": 30,
+    "category": "cameras",
+    "availablity": "inStock"
+  },
+  {
+    "_id": "64cd303c4bc6ff277b2bf490",
+    "productName": "DIGITAL DOWNLOAD - Personalised Nikkah Contract, Nikah Nama, Customised Muslim Marriage Certificate, Keepsake, Wedding Gift for Bride/Groom",
+    "price": "150",
+    "tax": "12",
+    "category": "crafts",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/GM4xsCf/Untitled-13.jpg"
+  },
+  {
+    "_id": "64cd4a6a50763172844bc9ed",
+    "productName": "Matryoshka Dolls",
+    "price": "355.55",
+    "tax": "12",
+    "category": "toys",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/nbsxtp1/matryoshka-dolls-russia-photo-was-taken-museum-yarolsavl-there-many-kinds-most-famous-doll-58874792.webp"
+  },
+  {
+    "_id": "64cd4b9fbc1cafa0eeb86577",
+    "productName": "Toys-Name-For-Kids",
+    "price": "180.45",
+    "tax": "1",
+    "category": "toys",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/kXN36rH/Toy-Names-For-Kids.jpg"
+  },
+  {
+    "_id": "64ce0adfcff502c91fce3dfb",
+    "productName": "Amazon Basics 27 Inch Monitor Powered with AOC Technology, FHD 1080P, 75hz, VESA Compatible, Built-in Speakers, Black",
+    "price": "164.55",
+    "tax": "10",
+    "category": "computers",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/7xfp05G/91nju-ONYgz-S-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce0b65cff502c91fce3dfc",
+    "productName": "KOORUI 24 Inch Computer Monitor Full HD 1920 x 1080p VA Display 75Hz 3000:1 Contrast Ratio with HDMI, VGA, Frameless, 75 x 75 mm VESA Mountable, Ergonomic Tilt, Black",
+    "price": "97.63",
+    "tax": "3",
+    "category": "computers",
+    "availablity": "outOfStock",
+    "productImage": "https://i.ibb.co/k87hBsZ/71-TOE0w7-Dz-L-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce0bc2cff502c91fce3dfd",
+    "productName": "ViewSonic VX2467-MHD 24 Inch 1080p Gaming Monitor with 75Hz, 1ms, Ultra-Thin Bezels, FreeSync, Eye Care, HDMI, VGA, and DP, Black",
+    "price": "129.63",
+    "tax": "12",
+    "category": "computers",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/HrHY2hz/61ob7-Tr-XQv-L-AC-SX300-SY300-QL70-FMwebp.webp"
+  },
+  {
+    "_id": "64ce0c07cff502c91fce3dfe",
+    "productName": "ViewSonic VA1655 15.6 Inch 1080p Portable IPS Monitor with Mobile Ergonomics, USB C, Mini HDMI and a Protective Case for Home and Office,Black",
+    "price": "124.99",
+    "tax": "5",
+    "category": "computers",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/L6BnrLF/61xt-Siir-B7-L-AC-SX300-SY300-QL70-FMwebp.webp"
+  },
+  {
+    "_id": "64ce0d82cff502c91fce3dff",
+    "productName": "ViewSonic VA1655 15.6 Inch 1080p Portable IPS Monitor with Mobile Ergonomics, USB C, Mini HDMI and a Protective Case for Home and Office,Black",
+    "price": "89.99",
+    "tax": "5",
+    "category": "computers",
+    "availablity": "outOfStock",
+    "productImage": "https://i.ibb.co/3S5vRSt/61v-Eo-TP35-IL-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce0f1b15ccd57e679cd685",
+    "productName": "SAMSUNG Galaxy S23 Ultra Cell Phone, Factory Unlocked Android Smartphone, 256GB, 200MP Camera, Night Mode, Long Battery Life, S Pen, US Version, 2023, Green",
+    "price": "75.12",
+    "tax": "5",
+    "category": "smartphones",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/c6QJHsJ/71-Ht-N4qq-LZL-AC-SX466.jpg"
+  },
+  {
+    "_id": "64ce0fd515ccd57e679cd686",
+    "productName": "SAMSUNG Galaxy A54 5G A Series Cell Phone, Factory Unlocked Android Smartphone, 128GB w/ 6.4” Fluid Display Screen, Hi Res Camera, Long Battery Life, Refined Design, US Version, 2023, Awesome Black",
+    "price": "399",
+    "tax": "7",
+    "category": "smartphones",
+    "availablity": "outOfStock",
+    "productImage": "https://i.ibb.co/jMjSQzy/61-MEp5-HId-BL-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce102215ccd57e679cd687",
+    "productName": "Moto G 5G | 2022 | 2-Day Battery | Unlocked | Made for US by Motorola | 6/256GB | 50 MP Camera | Moonlight Gray",
+    "price": "189.75",
+    "tax": "10",
+    "category": "smartphones",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/C8VVCRw/61-Vnjl-Im-z-L-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce10b515ccd57e679cd688",
+    "productName": "SAMSUNG Galaxy Z Flip 5 Cell Phone + Storage Upgrade + $150 Amazon Gift Card, Factory Unlocked Android Smartphone, 512GB, Compact, Foldable Design, Full Cover Screen, US Version, 2023, Lavender",
+    "price": "289.85",
+    "tax": "6",
+    "category": "smartphones",
+    "availablity": "outOfStock",
+    "productImage": "https://i.ibb.co/khJ52fD/61-KL4p-YEzh-L-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce117a15ccd57e679cd689",
+    "productName": "Google Pixel 6a - 5G Android Phone - Unlocked Smartphone with 12 Megapixel Camera and 24-Hour Battery - Charcoal",
+    "price": "349.00",
+    "tax": "10",
+    "category": "smartphones",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/wWWW7Xt/514pgzf2c2-L-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce122415ccd57e679cd68a",
+    "productName": "OnePlus Nord N30 5G | Unlocked Dual-SIM Android Smart Phone | 6.7\" LCD Display | 8 +128GB | 5000 mAh Battery | 50W Fast Charging | 108MP Camera | Chromatic Gray",
+    "price": "299.65",
+    "tax": "15",
+    "category": "smartphones",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/t83wzzb/616u-Mt-IWii-L-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce12a115ccd57e679cd68b",
+    "productName": "Teenage Mutant Ninja Turtles: Mutant Mayhem 4.5” Leonardo Basic Action Figure by Playmates Toys",
+    "price": "10.95",
+    "tax": "1",
+    "category": "toys",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/HP6gsnR/614-Nlzq-VFYL-AC-SL1410.jpg"
+  },
+  {
+    "_id": "64ce131615ccd57e679cd68c",
+    "productName": "Teenage Mutant Ninja Turtles: Mutant Mayhem Pizza Fire Delivery Van by Playmates Toys",
+    "price": "37.85",
+    "tax": "5",
+    "category": "toys",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/hLMb5sq/81-f-Zb-Yyh-ZL-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce135d15ccd57e679cd68d",
+    "productName": "Teenage Mutant Ninja Turtles: Mutant Mayhem Ninja Kick Cycle with Exclusive Leonardo Figure by Playmates Toys",
+    "price": "23.49",
+    "tax": "3",
+    "category": "toys",
+    "availablity": "outOfStock",
+    "productImage": "https://i.ibb.co/rkpYC0n/715-mwe-FLo-L-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce13e515ccd57e679cd68e",
+    "productName": "Ravensburger CreArt Cute Puppies Paint by Numbers Kit for Kids - Painting Arts and Crafts for Ages 7 and Up, 24 x 18 cm",
+    "price": "24.85",
+    "tax": "2",
+    "category": "crafts",
+    "availablity": "outOfStock",
+    "productImage": "https://i.ibb.co/Yyb68FW/71-Jcc-Jt3-LTL-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce145a15ccd57e679cd68f",
+    "productName": "Ravensburger CreArt Think Pink Paint by Numbers Kit for Kids - Painting Arts and Crafts for Ages 7 and Up",
+    "price": "28",
+    "tax": "5",
+    "category": "crafts",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/QdV8c7H/61tkhj-s-RML-AC-SL1373.jpg"
+  },
+  {
+    "_id": "64ce14cc15ccd57e679cd690",
+    "productName": "Ravensburger CreArt Spring Squirrel Paint by Numbers Kit for Kids - Painting Arts and Crafts for Ages 9 and Up",
+    "price": "20.85",
+    "tax": "3",
+    "category": "crafts",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/z2THYQC/91-HSR8-JEa6-L-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce157f15ccd57e679cd691",
+    "productName": "EAST OAK Deck Box, 31 Gallon Indoor and Outdoor Storage Box with Padlock for Patio Cushions, Outdoor Toys, Gardening Tools, Sports Equipment, Waterproof and UV Resistant Resin, Grey",
+    "price": "70.85",
+    "tax": "5",
+    "category": "outdoors",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/3MLswND/71-ht8ca5t-L-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce15e415ccd57e679cd692",
+    "productName": "Keter Pacific Cool Bar Outdoor Patio Furniture and Hot Tub Side Table with 7.5 Gallon Beer and Wine Cooler, Brown",
+    "price": "100.55",
+    "tax": "3",
+    "category": "outdoors",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/XfHwnk3/815w-Ttv7-U0-L-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce163615ccd57e679cd693",
+    "productName": "OTSUN Adirondack Chair Set of 4, Plastic Adirondack Chairs with 350 Lbs Weight Capacity, Weather Resistant Fire Pit Chairs, Outdoor Chairs Widely Used for Patio, Pool, Lawn, Garden, Beach, Black",
+    "price": "499.57",
+    "tax": "8",
+    "category": "outdoors",
+    "availablity": "outOfStock",
+    "productImage": "https://i.ibb.co/PrTnSxv/61-ILX0x-Qu5-L-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce16ac15ccd57e679cd694",
+    "productName": "RADIATA Double Egg Chair with Stand and Cover Luxury Outdoor Patio Wicker Loveseat Hanging Swing Egg Chairs with Resistant Cushions Metal Frame 500 lbs Capaticy for 2 Persons",
+    "price": "347.65",
+    "tax": "15",
+    "category": "outdoors",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/Nyrtzk2/81-Js-Gkrve-GL-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce17c615ccd57e679cd695",
+    "productName": "JBL Vibe Buds True Wireless Headphones - Black, Small",
+    "price": "57.85",
+    "tax": "4",
+    "category": "electronics",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/ZL1xHbZ/31m-J3mh6x5-L-AC.jpg"
+  },
+  {
+    "_id": "64ce180715ccd57e679cd696",
+    "productName": "Tribit [Upgraded Version] Wireless Earbuds, Qualcomm QCC3040 Bluetooth 5.2, 4 Mics CVC 8.0 Call Noise Reduction 50H Playtime Clear Calls Volume Control True Wireless Bluetooth Earbuds, FlyBuds C1",
+    "price": "47.87",
+    "tax": "7",
+    "category": "electronics",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/25YTPQb/51n-UPPWg3f-L-AC-SL1170.jpg"
+  },
+  {
+    "_id": "64ce185a15ccd57e679cd697",
+    "productName": "Lexar Professional CFexpress Type B/SD USB 3.2 Gen 2 Reader, Transfer Speeds Up to 10Gbps, Designed for CFexpress Type B and SD Cards (LRW520U-RNBNG)",
+    "price": "47.77",
+    "tax": "5",
+    "category": "electronics",
+    "availablity": "inStock",
+    "productImage": "https://i.ibb.co/8x61yHr/61hjd-EPwp1-L-AC-SL1500.jpg"
+  },
+  {
+    "_id": "64ce18a415ccd57e679cd698",
+    "productName": "UBeesize 54'' Camera Tripod, Travel Tripod for iPhone with Bag, Phone Tripod Stand with Remote Compatible with Phone/Projector/DSLR/Gopro",
+    "price": "20.75",
+    "tax": "6",
+    "category": "electronics",
+    "availablity": "outOfStock",
+    "productImage": "https://i.ibb.co/gZH8T1d/614z-Cirwn-KL-AC-SL1000.jpg"
+  },
+  {
+    "_id": "64ce191415ccd57e679cd699",
+    "productName": "Tractive Mini GPS Cat Tracker (6.5 lbs+) - Waterproof, GPS Location & Smart Activity Tracker, Unlimited Range (Midnight Blue)",
+    "price": "50.75",
+    "tax": "3",
+    "category": "electronics",
+    "availablity": "outOfStock",
+    "productImage": "https://i.ibb.co/12FH4h3/71-EBufs6k-ZL-AC-SL1500.jpg"
+  }
+]
